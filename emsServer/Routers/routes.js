@@ -1,6 +1,7 @@
 const express=require('express')
-const { adminLogin, addEmployee, getAllEmployees, getEmployee, deleteEmployee, editEmployee, filterEmployee } = require('../controls/adminlogic')
+const { adminLogin, addEmployee, getAllEmployees, getEmployee, deleteEmployee, editEmployee, filterEmployee } = require('../controls/adminLogic')
 const upload = require('../middlewares/multerMiddleware')
+
 
 const router=new express.Router() 
 
