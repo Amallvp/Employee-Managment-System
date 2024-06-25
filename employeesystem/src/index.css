@@ -74,7 +74,7 @@ justify-content: center;
   height: 550px;
 }
 
-.text {
+.adminHomeText {
   margin: 70px;
   font-size: 52px;
   background: -webkit-linear-gradient(#b4afaf, #4b93ac);
@@ -176,8 +176,8 @@ justify-content: center;
     margin-bottom: 40px;
   }
 
-  .text {
-    font-size: 30px;
+  .adminHomeText {
+    font-size: 23px;
     background: -webkit-linear-gradient(#f4f3f6, #bbc1c7);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;

@@ -10,8 +10,8 @@ function AdminHome() {
     <div className='w-100'>
 <div className='adminHomeRow' >
   <div className='adminHome'>
-  <h1 className='text'>Makes employee <br/>management easy</h1>
-  <h7 className='adminhometext'>Employee portals are valuable tools for organizations to enhance employee engagement,
+  <h1 className='adminHomeText'>Makes employee <br/>management easy</h1>
+  <h7 className='adminhometext text-white'>Employee portals are valuable tools for organizations to enhance employee engagement,
    improve communication, and streamline administrative processes.</h7>
   
   </div>
